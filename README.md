@@ -1,2 +1,2 @@
 # LAB22
-An repo for random small projects
+A repo for random small projects
